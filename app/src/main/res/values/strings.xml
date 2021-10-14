@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu_Tutorial</string>
+    <string name="str_profile">User Profile</string>
+    <string name="str_share">Share</string>
+    <string name="click_profile">Clicked User Profile</string>
+    <string name="click_share">Clicked Share</string>
+
+</resources>
